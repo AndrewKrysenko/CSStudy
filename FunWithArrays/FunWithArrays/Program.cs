@@ -7,11 +7,6 @@ using System.Threading.Tasks;
 
 namespace FunWithArrays
 {
-    enum SortingEnum
-    {
-        asc,
-        desc
-    }
     class Program
     {
         static void Main(string[] args)
@@ -26,14 +21,14 @@ namespace FunWithArrays
 
             
             Console.WriteLine("Which way do you want to sort your Array?");
-            SortingDecision(b,);
+            SortingDecision(b);
 
 
             Console.ReadLine();
         }
 
 
-        private static void SortingDecision(int[] fltrdRry, SortingEnum type)
+        private static void SortingDecision(int[] fltrdRry)
         {
             bool flag = false;
             do
@@ -41,16 +36,15 @@ namespace FunWithArrays
                 // use switch case:
                 Console.WriteLine("Enter 'asc' or 'desc'");
                 string sortingWay = Console.ReadLine();
-
-                switch (type )
+                switch (sortingWay)
                 {
-                    case SortingEnum.asc:
+                    case "asc":
                         Array.Sort(fltrdRry);
                         foreach (int n in fltrdRry)
                             Console.Write("{0}, ", n);
                         flag = true;
                         break;
-                    case SortingEnum.desc:
+                    case "desc":
                         Array.Sort(fltrdRry);
                         Array.Reverse(fltrdRry);
                         foreach (int n in fltrdRry)
