@@ -1,0 +1,13 @@
+C:\Users\AndriiKrysenko\source\repos\DotsApp\DotsApp\bin\Debug\netcoreapp3.1\DotsApp.exe
+C:\Users\AndriiKrysenko\source\repos\DotsApp\DotsApp\bin\Debug\netcoreapp3.1\DotsApp.deps.json
+C:\Users\AndriiKrysenko\source\repos\DotsApp\DotsApp\bin\Debug\netcoreapp3.1\DotsApp.runtimeconfig.json
+C:\Users\AndriiKrysenko\source\repos\DotsApp\DotsApp\bin\Debug\netcoreapp3.1\DotsApp.runtimeconfig.dev.json
+C:\Users\AndriiKrysenko\source\repos\DotsApp\DotsApp\bin\Debug\netcoreapp3.1\DotsApp.dll
+C:\Users\AndriiKrysenko\source\repos\DotsApp\DotsApp\bin\Debug\netcoreapp3.1\DotsApp.pdb
+C:\Users\AndriiKrysenko\source\repos\DotsApp\DotsApp\obj\Debug\netcoreapp3.1\DotsApp.csprojAssemblyReference.cache
+C:\Users\AndriiKrysenko\source\repos\DotsApp\DotsApp\obj\Debug\netcoreapp3.1\DotsApp.AssemblyInfoInputs.cache
+C:\Users\AndriiKrysenko\source\repos\DotsApp\DotsApp\obj\Debug\netcoreapp3.1\DotsApp.AssemblyInfo.cs
+C:\Users\AndriiKrysenko\source\repos\DotsApp\DotsApp\obj\Debug\netcoreapp3.1\DotsApp.csproj.CoreCompileInputs.cache
+C:\Users\AndriiKrysenko\source\repos\DotsApp\DotsApp\obj\Debug\netcoreapp3.1\DotsApp.dll
+C:\Users\AndriiKrysenko\source\repos\DotsApp\DotsApp\obj\Debug\netcoreapp3.1\DotsApp.pdb
+C:\Users\AndriiKrysenko\source\repos\DotsApp\DotsApp\obj\Debug\netcoreapp3.1\DotsApp.genruntimeconfig.cache
