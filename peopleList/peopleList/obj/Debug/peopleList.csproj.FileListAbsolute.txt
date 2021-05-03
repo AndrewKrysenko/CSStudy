@@ -1,0 +1,7 @@
+C:\Users\AndriiKrysenko\source\repos\peopleList\peopleList\obj\Debug\peopleList.csprojAssemblyReference.cache
+C:\Users\AndriiKrysenko\source\repos\peopleList\peopleList\obj\Debug\peopleList.csproj.CoreCompileInputs.cache
+C:\Users\AndriiKrysenko\source\repos\peopleList\peopleList\bin\Debug\peopleList.exe.config
+C:\Users\AndriiKrysenko\source\repos\peopleList\peopleList\bin\Debug\peopleList.exe
+C:\Users\AndriiKrysenko\source\repos\peopleList\peopleList\bin\Debug\peopleList.pdb
+C:\Users\AndriiKrysenko\source\repos\peopleList\peopleList\obj\Debug\peopleList.exe
+C:\Users\AndriiKrysenko\source\repos\peopleList\peopleList\obj\Debug\peopleList.pdb
